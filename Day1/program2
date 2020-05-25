@@ -1,0 +1,3 @@
+number=int (input("Enter a number to calculate its square root"))
+sqrt=number ** 0.5 
+print("Sqare root of the number is:",sqrt)
